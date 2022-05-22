@@ -1,0 +1,24 @@
+{
+  "title": "Scenario-1",
+  "description": "erm",
+  "difficulty": "Beginner",
+  "time": "2 hours",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "python:3.7"
+  }
+}
